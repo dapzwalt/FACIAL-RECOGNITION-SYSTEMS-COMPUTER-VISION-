@@ -14,7 +14,7 @@ process, analyze, and make sense of visual information from the world, such as i
 understand the content of images and videos.
 Applications of computer vision are diverse and include:
 
-- **Image and video classification
+- **Image and video classification**
 - **Object Detection**
 - **Medical Imaging**
 - **Autonomous Vehicle**
