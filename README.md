@@ -3,10 +3,10 @@
 ![image](https://github.com/dapzwalt/FACIAL-RECOGNITION-SYSTEMS-COMPUTER-VISION-/assets/125368548/e667aaed-79e5-4575-ae83-a710f97cd026)
 
 ## Table Of Contents
--[Project Overview](Project-overview)
--[Project Objective](Project-objective)
--[Key Insights](Key-insights)
--[Conclusion](Conclusion)
+-[Project Overview](#Project-overview)
+-[Project Objective](#Project-objective)
+-[Key Insights](#Key-insights)
+-[Conclusion](#Conclusion)
 
 ## Project Overview
 Computer vision is an interdisciplinary field that enables computers to interpret and understand the visual world. It focuses on developing algorithms and systems that can automatically 
